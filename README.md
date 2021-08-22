@@ -1,4 +1,4 @@
-# Otax | Discord No Auth 0day
+# Discord No Auth 0day | User Full Account Take-Over
 A write up on a Discord No-Auth 0day also known in the community as "Otax"
 
 ```
