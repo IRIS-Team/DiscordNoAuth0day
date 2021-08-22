@@ -31,7 +31,7 @@ This vulnerability affects all Discord accounts.
 2fa does not affect the attackers side.
 
 ### Description
-A malicious attacker can log on using any account to any Discord servers’ official authentication servers to verify user authenticity. This can allow an attacker to gain access to users’ accounts, or allow an attacker to gain access to a privileged account in Discord servers'. Depending on common server modifications, privileged accounts could be used to acquire access to the operating system, or cause serious damage, which includes but is not limited to:
+A malicious attacker can log on using any account to any Discord servers’ official authentication servers to verify user authenticity. This can allow an attacker to gain access to users’ accounts, or allow an attacker to gain access to a privileged account in Discord servers'. Depending on common server modifications, privileged accounts could be used to acquire access to emails, or cause serious damage, which includes but is not limited to:
 
   * Server Nuking
   * Account Take Over
