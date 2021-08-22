@@ -42,7 +42,9 @@ A malicious attacker can log on using any account to any Discord servers’ offi
 # The Discord Authentication
 
 ### Basic Authentication
-Discord uses a token based authentication system, the token is stored in the headers
+Discord uses a token based authentication system, the token is stored in the headers or every request.
+Your user token is how the Discord app authenticates you as it interacts with Discord's backend servers, so you don't have to enter your username and password every time you want to send a message or make a request.
+It will give anyone almost unlimited access to your account.
 
 ### Gateways Affected
 ```json
